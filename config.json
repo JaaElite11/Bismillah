@@ -1,7 +1,7 @@
 {
-    "ownerNumber": "6283834558105@s.whatsapp.net", 
-    "ownerName": "Lexxy Official", 
-    "botName": "Neobot",
+    "ownerNumber": "15107640798@s.whatsapp.net", 
+    "ownerName": "Vander Store", 
+    "botName": "Vander MD",
     "footer": "© BOTMD | 2022", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
@@ -12,6 +12,6 @@
     "gamewaktu": 90,
     "sticker": {
         "packname": "© Store",
-        "author": "Lexxy Official"
+        "author": "Vander Store"
     }
 }
